@@ -73,10 +73,11 @@ Note.
 - The experiments can be runned on a server with multiple cores. The programme run_toy1.sh may take several hours to finish depending on the hardware configurations. Other scripts may take less time.
 
 **Development**
-- The repository is released and maintained by Yuanhang Luo(chattelion.luo@connect.polyu.hk) and Yeheng GE(geyh96@foxmail.com).
+The repository is released and maintained by Yuanhang Luo(chattelion.luo@connect.polyu.hk) and Yeheng GE(geyh96@foxmail.com).
 
 **Reference**
 - Yuanhang Luo, Yeheng Ge, Ruijian Han, and Guohao Shen. 2026. Learning Guarantee of Reward Modeling Using Deep Neural Networks. In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data
 Mining (KDD ’26). https://doi.org/10.1145/3770845.3780316
+
 
 
