@@ -1,7 +1,7 @@
 This folder contains necessary code files to reproduce the experiments in the article **Learning guarantee of reward modeling using deep neural networks**
 
 The structure of this repository is as follows:
-<working directory>/
+<working directory>
 ```
 ├─README.md
 ├─plot_two.py
@@ -77,3 +77,4 @@ The repository is released and maintained by Yuanhang Luo(chattelion.luo@connect
 **Reference**
 Yuanhang Luo, Yeheng Ge, Ruijian Han, and Guohao Shen. 2026. Learning Guarantee of Reward Modeling Using Deep Neural Networks. In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data
 Mining (KDD ’26). https://doi.org/10.1145/3770845.3780316
+
